@@ -1,8 +1,6 @@
 **HACKATHON DAY 2
 PLANNING THE TECHNICAL FOUNDATION**
-HKMentor commented 13 minutes ago
-@HKMentor
-HKMentor
+
 
 System Architecture, Workflow, and API Requirements
 Building a Seamless Furniture Website
