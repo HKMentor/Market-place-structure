@@ -7,6 +7,9 @@ HKMentor
 System Architecture, Workflow, and API Requirements
 Building a Seamless Furniture Website
 
+<img width="332" alt="diagram1" src="https://github.com/user-attachments/assets/7248594c-13d5-42bd-8dc8-98468f752158" />
+
+
 Introduction
 _A brief overview of the importance of user-friendly system design and API structure.
 
@@ -20,6 +23,9 @@ System Architecture Overview
 Frontend (Next JS, HTML, Tailwind CSS)
 Backend (Node.js, API endpoints)
 Database (Sanity CMS)
+
+<img width="184" alt="System Architecture" src="https://github.com/user-attachments/assets/1025772e-5ce3-4c50-81c9-52fc922bf526" />
+
 
 Frontend Requirements
 Home Page: Show featured products and promos.
@@ -58,6 +64,8 @@ Shipment Tracking:
 Call 3rd-party API → Fetch shipment status → Display to user.
 
 
+
+
 ### Plan API Requirements
 
 1./products (GET):
@@ -68,9 +76,13 @@ Call 3rd-party API → Fetch shipment status → Display to user.
 
 3./shipment (GET):
 { shipmentId: "12345", orderId: "67890", status: "In Transit", "expectedDelivery"
+<img width="541" alt="api endpoin" src="https://github.com/user-attachments/assets/fb3235b8-6711-4074-be56-278993e352a6" />
 
 
 Third-Party API Structure for e-commerce platform
+
+
+<img width="474" alt="API" src="https://github.com/user-attachments/assets/889596e7-69b1-4ae0-b211-9bd38c0433e4" />
 
 ### Conclusion:
 
